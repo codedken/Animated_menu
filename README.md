@@ -9,7 +9,7 @@ When the Menu is an Animated Menu, it makes the whole experience smooth and fun.
 
 ### Watch demo below
 
-<img src="./images/animated_menu.gif" alt="Animated Menu Demo" width="400" height="300"/>
+![Animated Menu Demo](https://res.cloudinary.com/dsfdj3laa/image/upload/v1653433101/myfolder/animated_menu.gif)
 
 #### How to get the source code
 
